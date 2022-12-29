@@ -1,4 +1,7 @@
-## Logos
+# FontShekaf Assets
+Public assets including the artworks, used in FontShekaf website & apps.
+
+### Logos
 
 |Preview|Name|Designer|Files|
 |:-:|-|:-:|:-:|
@@ -6,7 +9,7 @@
 |<img src="logo/fontshekaf-logo-white.svg" height="48">|FontShekaf Logo White|[Mr Password](https://t.me/MrP455WORD)|[SVG](logo/fontshekaf-logo-white.svg), [PNG](logo/fontshekaf-logo-white.png)|
 |<img src="logo/fontshekaf-logo-black.svg" height="48">|FontShekaf Logo Black|[Mr Password](https://t.me/MrP455WORD)|[SVG](logo/fontshekaf-logo-black.svg), [PNG](logo/fontshekaf-logo-black.png)|
 
-## Logotypes
+### Logotypes
 
 |Preview|Name|Designer|Files|
 |:-:|-|:-:|:-:|
@@ -28,7 +31,7 @@
 |<img src="logotype/shekaf-logotype-b15.svg" height="48">|Shekaf Logotype B15|[Behdad Bahari](https://redl.ink/BEHDADBAHARI)|[SVG](logotype/shekaf-logotype-b15.svg), [PNG](logotype/shekaf-logotype-b15.png)|
 |<img src="logotype/shekaf-logotype-b16.svg" height="48">|Shekaf Logotype B16|[Behdad Bahari](https://redl.ink/BEHDADBAHARI)|[SVG](logotype/shekaf-logotype-b16.svg), [PNG](logotype/shekaf-logotype-b16.png)|
 
-## Artworks
+### Artworks
 
 |Preview|Name|Designer|Files|
 |:-:|-|-|:-:|
