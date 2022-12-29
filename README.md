@@ -2,6 +2,7 @@
 Public assets for FontShekaf
 
 ### Logos
+
 |Preview|Name|Designer|Formats|
 |:-:|-|:-:|:-:|
 |<img src="logo/fontshekaf-logo.svg" height="48">|FontShekaf Logo|[Mr Password](https://t.me/MrP455WORD)|SVG, PNG|
@@ -9,6 +10,7 @@ Public assets for FontShekaf
 |<img src="logo/fontshekaf-logo-black.svg" height="48">|FontShekaf Logo Black|[Mr Password](https://t.me/MrP455WORD)|SVG, PNG|
 
 ### Logotypes
+
 |Preview|Name|Designer|Formats|
 |:-:|-|:-:|:-:|
 |<img src="logotype/shekaf-logotype-m.svg" height="48">|Shekaf Logotype M|[Minator](https://t.me/mr_minator)|SVG, PNG|
@@ -30,6 +32,7 @@ Public assets for FontShekaf
 |<img src="logotype/shekaf-logotype-b16.svg" height="48">|Shekaf Logotype B16|[Behdad](https://t.me/behdadbahariartworks)|SVG, PNG|
 
 ### Artworks
+
 |Preview|Name|Designer|Formats|
 |:-:|-|-|:-:|
 |<img src="art/fontshekaf-profile.png" height="48">|FontShekaf Profile|[Mr Password](https://t.me/MrP455WORD)|PNG|
