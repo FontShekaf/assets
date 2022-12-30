@@ -35,7 +35,7 @@ Public assets including the artworks, used in FontShekaf website & apps.
 
 |Preview|Name|Designer|Files|
 |:-:|-|-|:-:|
-|<img src="art/fontshekaf-profile.png" height="48">|FontShekaf Profile|[Mr Password](https://t.me/MrP455WORD)|[PNG]()|
-|<img src="art/fontshekaf-banner.png" height="48">|FontShekaf Banner|[Mr Password](https://t.me/MrP455WORD)|[PNG]()|
-|<img src="art/fontshekaf-profile-old.png" height="48">|FontShekaf Profile Old|[Mr Password](https://t.me/MrP455WORD)|[PNG]()|
-|<img src="art/fontshekaf-profile-group.svg" height="48">|FontShekaf Profile Group|[Behdad Bahari](https://redl.ink/BEHDADBAHARI)|[SVG](), [PNG]()|
+|<img src="art/fontshekaf-profile.png" height="48">|FontShekaf Profile|[Mr Password](https://t.me/MrP455WORD)|[PNG](art/fontshekaf-profile.png)|
+|<img src="art/fontshekaf-banner.png" height="48">|FontShekaf Banner|[Mr Password](https://t.me/MrP455WORD)|[PNG](art/fontshekaf-banner.png)|
+|<img src="art/fontshekaf-profile-old.png" height="48">|FontShekaf Profile Old|[Mr Password](https://t.me/MrP455WORD)|[PNG](art/fontshekaf-profile-old.png)|
+|<img src="art/fontshekaf-profile-group.png" height="48">|FontShekaf Profile Group|[Behdad Bahari](https://redl.ink/BEHDADBAHARI)|[SVG](art/fontshekaf-profile-group.svg), [PNG](art/fontshekaf-profile-group.png)|
